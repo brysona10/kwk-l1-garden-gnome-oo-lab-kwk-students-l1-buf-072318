@@ -5,7 +5,7 @@ class GardenGnome
     @personality = "evil"
     @hat_color = hat_color
   end
-  def gnawa
+  def gnaws_on_trees
     puts "Gnawing on a tree!!!"
   end
 end 
