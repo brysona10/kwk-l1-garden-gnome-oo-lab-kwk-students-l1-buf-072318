@@ -7,6 +7,7 @@ class GardenGnome
   end
   def gnawa
     puts "Gnawing on tree!!!"
+  end
 end 
 
 
