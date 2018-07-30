@@ -11,6 +11,8 @@ class GardenGnome
   def shout 
     "GNARLY!!!"
   end
+  def introduce_self
+    ""
 end 
 
 
